@@ -1,6 +1,9 @@
 body{
-    background-image: url("C:\Users\buzov\Downloads\Pixel_фон.png");
+    background-image: url(World\ Map.svg);
+    background-size:cover;
 }
 p{
-    margin: 400px;
+    margin: 500px;
+    color: aliceblue;
+    font-size: 50pt;
 }
